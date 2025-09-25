@@ -69,4 +69,5 @@ A console-based Java application for managing students, courses, enrollments, an
 
 ## Enabling Assertions
 ```bash
+
 java -ea -cp bin edu.ccrm.Main
