@@ -5,6 +5,8 @@ Reg No : 24BCE10427
 
 # Folder Structure
 
+
+
 CCRM/
 ├── src/ (all your Java files)
 ├── data/
@@ -18,6 +20,8 @@ CCRM/
 ├── README.md
 ├── USAGE.md
 └── (optional demo video)
+
+
 
 ## Project Overview
 A console-based Java application for managing students, courses, enrollments, and grades with GPA calculation.
@@ -69,5 +73,4 @@ A console-based Java application for managing students, courses, enrollments, an
 
 ## Enabling Assertions
 ```bash
-
 java -ea -cp bin edu.ccrm.Main
